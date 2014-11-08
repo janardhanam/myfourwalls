@@ -1,0 +1,48 @@
+.navbar-header{
+		background-color:#088A85;
+}   
+	   
+.logout a{
+		text-decoration:none;
+		float:right;		
+		margin: 5px 10px;
+}
+
+#sidebar-left{ 
+		background-color:#088A85 ;
+		float: left; 
+		width:150px;
+		height:1300px;
+}
+
+#content{ 
+		background-color:#BDBDBD;
+		height:1300px;
+		padding-left:150px;
+}
+
+
+.dropdown-pages, .dropdown-pages a , .sub-menu-pages a, .dropdown-media a{
+		text-decoration:none;
+		padding-top:20px;
+		font-size:20;
+}
+
+.sub-menu-pages, .sub-menu-media{
+    display:none;
+	width:100px;
+}
+#menu a, .dropdown-pages, .dropdown-media{
+		text-decoration:none;
+		padding-left: 10px;
+		padding-top:20px;
+		font-size:20;
+		width:140px; float:left; overflow: hidden; 
+
+}
+.test{ 
+		float: left; 
+		width:1182px;
+		height:530px;
+		
+}
